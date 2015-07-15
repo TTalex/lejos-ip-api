@@ -1,5 +1,5 @@
 # Examples
-After compiling and running both LejosWebApi and EchoReciever data can be sent to the robot using one of the example programs.
+After compiling and running both LejosWebApi and EchoReciever, data can be sent to the robot using one of the example programs.
 
 All examples follow the same pattern:
 
