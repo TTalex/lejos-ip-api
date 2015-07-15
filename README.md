@@ -56,7 +56,7 @@ nxj -r -o EchoReciever.nxj EchoReciever
 ```
 
 ## Examples
-After compiling and running both LejosWebApi and EchoReciever data can be sent to the robot using one of the example programs from the [examples](https://github.com/TTalex/lejos-ip-api/tree/master/examples) folder.
+After compiling and running both LejosWebApi and EchoReciever, data can be sent to the robot using one of the example programs from the [examples](https://github.com/TTalex/lejos-ip-api/tree/master/examples) folder.
 ##Useful links
 * [Pairing the NXT robot on linux](http://www.eggwall.com/2011/07/setting-up-nxt-bluetooth-support-on.html)
 * [The Lejos NXJ Tutorial](http://www.lejos.org/nxt/nxj/tutorial/index.htm)
